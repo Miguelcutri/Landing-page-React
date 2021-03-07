@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400&display=swap');
+
+.menu{
+    padding-top: 20px;
+    list-style:none;
+    padding-bottom: 5px;
+    float:left;
+    padding-left: 100px;
+    
+    }
+  .menu li{
+      position:relative;
+      float:left;
+    color: #4B5D68;
+      }
+  
+  .menu li a{color: #4B5D68; ; text-decoration:none; padding:5px 10px; display:block; font-family: 'Nunito';}
+  
+  .menu li a:hover{
+    font-weight: bolder;
+  
+  }

@@ -1,0 +1,19 @@
+.Container2{
+    background: #e73f96;
+    padding-top: 50px;
+    scroll-behavior: smooth;
+    
+}
+
+.card{
+    background-color: white;
+    border-radius: 10px;
+    width: 240px;
+    margin: 50px;
+    padding: 20px;
+}
+
+html{
+    scroll-behavior: smooth;
+    
+}

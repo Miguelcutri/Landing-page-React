@@ -1,0 +1,25 @@
+html, body{
+	margin: 0;
+	width: 100%;
+	position: center;
+    
+}
+
+.Container{
+	width: 960px;
+	height: 0 auto;
+	margin: 0 auto;
+    background: linear-gradient(180deg, #F6FAFD 0%, #FFFFFF 19.4%);
+}
+
+.d-flex{
+    display: flex;
+}
+
+.parte1{
+	margin-bottom: -1400px;
+}
+
+.parte2{
+	background-color:#32668a;
+}

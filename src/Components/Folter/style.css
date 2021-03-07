@@ -1,0 +1,65 @@
+.h1-3{
+    font-size: 40px;
+    color: #212353;
+}
+
+.mg{
+    margin: 0!important;
+    padding: 0!important
+}
+.btn-3{
+    box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+    background-color: #e73f96;
+    padding: 10px;
+    border: none;
+    margin-right: -200px;
+    color: white;
+    font-family: 'Nunito';
+    
+    
+}
+
+ .btn-3:hover{
+    font-weight: bolder;
+    cursor: pointer;
+    
+}
+
+.btn-4{
+    background-color: #32668a;
+    margin-left: 220px;
+}
+
+.mg-50{
+    margin-top: 50px;
+}
+
+.mg-l-5{
+    margin-left: 5px;
+    margin-top: 22px;
+}
+
+.mg-l-150px{
+    margin-left: 150px;
+   
+
+}
+.mg-l-200px{
+    margin-left: 180px;
+}
+
+.small-p{
+    margin-top: 130px;
+    color: #212353;
+    font-family: "Avenir";
+    font-size: 12px;
+}
+
+.f-si svg{
+    font-size: 38px!important;
+}
+
+.col-2, .col-3, .col-4{
+    margin-top: -50px;
+}
